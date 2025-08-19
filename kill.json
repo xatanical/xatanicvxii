@@ -1,6 +1,5 @@
-
 {
-"kill": false,
-  "Status": "Sedang maintenance, Buy Permanent Akses Pv @xatanicvxii",
-  "Owner": "@xatanicvxii"
+  "status": "off",
+  "reason": "Xatanical Message",
+  "message": "Script Disebar Seseorang "
 }
